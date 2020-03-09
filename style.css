@@ -1,0 +1,21 @@
+*{
+    background-color: dimgrey;
+}
+
+.wrapper{
+    text-align: center;
+}
+
+h1{
+
+    font-size: 50px;
+    background-color: burlywood;
+    color: crimson;
+}
+
+img {
+    
+    width: 300px;
+    height: 175px;
+    padding: 2px;
+}
